@@ -1,0 +1,26 @@
+{
+  "name": "Jessie Smith",
+  "age": 32,
+  "address": {
+    "street": "Okeuk Street",
+    "city": "Kijwojdi",
+    "state": "MS",
+    "zip": "46512"
+  },
+  "contact": {
+    "phone": "(732) 430-2876",
+    "servicePhone": "800186194"
+  },
+  "birthday": "2003-07-10T20:44:28.639Z",
+  "ip": "86.250.232.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Fovub imepajoh okije meduv vij jubol meovuce wawbi vozijosa beime uk ohrov eduji zaf su zuguz utalapim. Duhdih popju na ib howaleh oc pagdioka kiba huiwrom niva nup loocela ovdih tanecu. Uweje do kuw go wav cu nimja kegud pikni ikovi lom ivza.",
+    "bio": "Ug hiki aros ceh supmoh jeldalev bemiv boufsej gaf eniacsa na zumdutfe debicel ifjiggid. Ze ugovogus tuvob hivak zavpomuj vuhje zizhihiw keibrom kobuvlo eb ize jawin cuelu vasa dah. Gud owde jelid uhe epikon fec golwaahu wokivsid damif tepu kaf ba zela ci kulebdic kagfefkuc forecuk oku. Hobtek ode hok os siw wivho aclofmu usuhoco pakduh ojioc miowgu rimzodecu epovitje hiribdu gebpuler. Kanzud nuhmuhwiz owu uzuju za hegor ufubi rog vaowveb duwtor gec du."
+  },
+  "apiKey": "cad86d837e61e48cc47c71369cfa6bf0125e43004c75351715ad0ab63bc01783",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
