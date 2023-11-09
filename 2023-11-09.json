@@ -1,0 +1,26 @@
+{
+  "name": "Belle Moss",
+  "age": 55,
+  "address": {
+    "street": "Fidit Junction",
+    "city": "Sigadu",
+    "state": "SC",
+    "zip": "31404"
+  },
+  "contact": {
+    "phone": "(455) 665-3512",
+    "servicePhone": "800511442"
+  },
+  "birthday": "1999-07-17T01:19:29.758Z",
+  "ip": "206.160.153.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Vibepib cur ze diene wef go vojviz bejigu vor vucca udukaf ihwup sabdaz biacuto. Unolouji zinsepmup ziwhesnoh hef nonici pud limnid neman sermi tamherlu oc wan ib. Uzel dulri roulo javsu he kuruma ciwico gu gih ke co ok gujih ta me leud wonwidej.",
+    "bio": "Nebuoh toup zobut facsozoz tucpah jumgahimo tunoz vuj vucizoc etipawul li afacej zogala. Bejof nuz fifta nij ruibuebu ca zohevu ta elrof leaju ve vehig. Sos kohazoef ohi deloru sikovobub wugo mebseba ule bi hep sejpur tag udcitkan fe tisamoosu nobe hivemko. Siz kugug ludkoco roaleoh mad cis ra bomlavi uwnuv wum ik ho ogariude. Agi ninne ad boela noehka tigu cajavkol gisewo uduvane lucgo zi ifabufru immihamo izaghu fubnop huzbundal upeosbid jamonu. Iciecli bum le ibikaeme heb ki ru luvfewog ekadapmek rom sohpobe ebucuwkur hi tiev tipfiraje gev uhousamo. Uleow juzdi ucasi tilal perucca du sajiteb jannev loc go ete heenota."
+  },
+  "apiKey": "924c4a44250e5aeec30c38f3375bb7a3f2becfab22584005cf6c9763679fcda5",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
