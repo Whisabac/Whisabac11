@@ -1,0 +1,26 @@
+{
+  "name": "Adeline Tyler",
+  "age": 27,
+  "address": {
+    "street": "Duze Loop",
+    "city": "Tadogul",
+    "state": "MI",
+    "zip": "01742"
+  },
+  "contact": {
+    "phone": "(570) 740-4551",
+    "servicePhone": "800846877"
+  },
+  "birthday": "1964-09-22T17:57:35.578Z",
+  "ip": "151.142.167.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Hu sicic dur itnoka sihet zidsoz banzut co hu bozdejoc foca bal zul sikum bajwok. Nizam kem jusno bapapata ade ose nom fasrosra let agcoroza fusepup adiimipo zezefi. Lofhihu dagoim iv ahoratug taozriz coh mazivud podlaf iliutoon noljor gaoroode gugcurar noveh fohiz.",
+    "bio": "Wijo lepiobe luevujad upfobji nevmi uvfih sotcaw omeneweji ovmoera ocoiku dodsoser lujiribe gipvi jezla we puwvepec. Vej tokva kaggigov idina bo sulmarjoj ges ren kuak rupatvo nu po tug biber poju woefa uche. Basol sesefa ok tengef akunortif lovjijir buenhiv wag rifanmu rug an ahjiiji vitus lawnouzo sib."
+  },
+  "apiKey": "c11ee87ecfd21f1d6fb95cd9b879e27f4a95cdc1b2fc27afe91f3fcd3086abd4",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
