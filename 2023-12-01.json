@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Craig",
+  "age": 48,
+  "address": {
+    "street": "Guwaz Place",
+    "city": "Hidizez",
+    "state": "MS",
+    "zip": "86309"
+  },
+  "contact": {
+    "phone": "(684) 731-7285",
+    "servicePhone": "800192784"
+  },
+  "birthday": "1967-05-18T19:44:09.166Z",
+  "ip": "77.96.206.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Moj falopihe owgi jaj gu ninego cidetom me ro huvemu ehfa bikujem. Ow saolpu vojgu nuzkadsos lotmivvaz ik haef zo jaghu vo itahip ocoduggo lolev miju je igtikhel. Hi lot okfoun ra ore ku urotar uku rubid ozja ciri ru narze uraelarep seono.",
+    "bio": "Loiczu lileir wo ihpozjun duc im ewoneace teco emeuphe jufac teg koelu ipmiih hipiive. Maddaik ojiak vatin si ka hehhad uki nu ni kihig cutsat enodeme. Levfohve zu ba sisuluw fovukciv buphuptu div uv izute taikdez zuwkorga gami wapeepe boti. Onimadvi fo cujrijvo ci sa nufavhih vuasah ona refutu azhetun dazec apuliw tavla noufu sebdijel ojdof ube. Jispo azdiwgil dil zi odlut tac sa bamjog si ve zabus co oro ve estu oduk webdul."
+  },
+  "apiKey": "3e4dd74b45d66d85199e4b5a9249ca4ae04482f2719b043a12d92520a5e25adb",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
