@@ -1,0 +1,26 @@
+{
+  "name": "Ada Arnold",
+  "age": 48,
+  "address": {
+    "street": "Pisdus Terrace",
+    "city": "Sailfow",
+    "state": "CT",
+    "zip": "44004"
+  },
+  "contact": {
+    "phone": "(403) 943-6369",
+    "servicePhone": "800496971"
+  },
+  "birthday": "1973-02-26T11:41:57.214Z",
+  "ip": "30.159.32.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Folniba ome jos cewit nofa vipgo sir ila avkaove sehalo ecce fuhuckat hakisog kacgi maolo gaif sadecufe uwa. Irewa weka befnamni nedako tanihgen erezusnih gudisas uskeh hem ara viwe afile. Jul aguvi koj ufiju hutsifi eju el wu jiruped lufdorag ecaneko ubu idifogrib ide jagfueze wugek mus izu.",
+    "bio": "Ga neukocaf gorwu du peip za mu jepkag buctin ocimi lo sekwok kaafav. Armozam noki ud pus saj ceruofa jo laf taser taj mos bibvu. Cab muzlafor wihorzaz zu kezfobi miuzo dicuzcun do je biudla tifwibpi ju lekna al. Nuikke esnuh gusfej jiznoj pabil ala ne ni wuj civnetep esume iheavebi itveh wadgi ekobis."
+  },
+  "apiKey": "8842f5ae9374c39a03abc279c2225fc2f1b6863174e616df4e114dcc602be9da",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
