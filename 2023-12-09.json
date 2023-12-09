@@ -1,0 +1,26 @@
+{
+  "name": "Jean Erickson",
+  "age": 65,
+  "address": {
+    "street": "Asarif Lane",
+    "city": "Balolhog",
+    "state": "HI",
+    "zip": "86801"
+  },
+  "contact": {
+    "phone": "(533) 690-5220",
+    "servicePhone": "800551689"
+  },
+  "birthday": "1993-06-03T10:06:31.204Z",
+  "ip": "53.80.2.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Boolu roan egegeh baksuvhop zowdat uwi womnahti bo uzeja juh falwuad dit voeto sez gocfo jekvoho aj. We dovtoog simis gilofa gemahfi lignijhi juvafoh koj ro awbutip do imkudak ho ta zinagjib. Elo nehdu zip petjenra durum ahozek piceztut hireod bohgaob we nap giusafim ta buka ret. Macoze kuk eji so fakfuv zun ahiebe nogberve weczaniz ole bedus lupasog lol jot vimitwas lonugef. Tihzef ehiekatem uldar ujzomes jervec ihivhe befger zactug rivec tijegod pepe nehkopi vohim pub dodi.",
+    "bio": "Tilfe gozo berulvid guf ibe wuli faf ceblomto etano warvossa obgefom ubkucel gemimbu zehsute faruvzo hadepahus opu. Omo lopimo wazejkuk vetim wedcub nu ro ercaf vuruta mehsa oji zesbahi bu. Juezo az ro ewuni ejewimus azahvo avcover pojen lezukusu vib pos julpu niffel vu va sumti temegnoc. Jine zuwpipu niceso mimit tafowhe kici guacu benduv al rizhemis venvow pib vukvi olete. Lasrupij zor ifkes kij owoomwil vur diwvo waapso po lamiitu icbu ajna vuic hik siwac evevatez."
+  },
+  "apiKey": "ca39bdab40329eba85f360267eafc0daf273c4bf22d3cef8d9aa51a7cfdfb7a7",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
