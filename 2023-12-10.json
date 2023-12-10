@@ -1,0 +1,26 @@
+{
+  "name": "Lee Schneider",
+  "age": 51,
+  "address": {
+    "street": "Leoh Court",
+    "city": "Sacubo",
+    "state": "WI",
+    "zip": "12462"
+  },
+  "contact": {
+    "phone": "(661) 525-1799",
+    "servicePhone": "800228324"
+  },
+  "birthday": "1972-02-01T00:05:39.014Z",
+  "ip": "72.94.131.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Uz etuuckup nimowko wijiji wedcovuh vijuaza um cihraov gukotar eragakob lew vohjak cohacmi hoamoos nofhicoz. Caleb gu ro em ku anwilgi jupsil medimi suzida lucibi nitsif ni fu javilus zewkopfa be. So egpu zo vuw zohjim ufojavaz ahezucbof zasgaceh suki gah locu fa gem.",
+    "bio": "Zi buctu tuimgi hataehi va wobco wisocwe lezlo voub johserera po log uzlate ecbak kazhebfer ummozfa poc kezodwob. Rit casnesnuz ojewi butnen jeroali webtuzvu cewba dawad od gahvike fiir pubuhdip olisuc. Debojbe bacwurtim kunizveb ode panve umudu kibogze ogo lavi cibaf fu ewepi kow je ruikcoj poibobel sejrerfe top."
+  },
+  "apiKey": "f7e6eeb7d26d3ac7d1788bdf112ced82f1fb1db2ce9b9c0d6cfc3e11b99bc0cb",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
