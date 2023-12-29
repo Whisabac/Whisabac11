@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Jimenez",
+  "age": 50,
+  "address": {
+    "street": "Zugiv Manor",
+    "city": "Jihogi",
+    "state": "PA",
+    "zip": "71449"
+  },
+  "contact": {
+    "phone": "(446) 622-4259",
+    "servicePhone": "800736357"
+  },
+  "birthday": "1959-01-18T00:55:46.585Z",
+  "ip": "125.142.21.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Beolda liguje mitug lok mowir dijok pumir haroka ponikam tiswu ziz suf duw bar lav anirok rihacuib. Dolkizis bi us va zamlipik ol cefnih al ekwi lu nuvubha jafjufid litzezba kitniv. Nuvhisa ka tihesrup lemabez tadegmo novbul ja basaam iphiwap zamdolvu usum kuca bir gud hiwufofo tumju zafjec.",
+    "bio": "Cacotjo hiprif hablo enanibew hopho up za gazmoc upejaes po ran mamunriw mu tem ced bemobi ec nesvintag. Jeolesok wavfi dob jutjuh kikbegse ekebepuf ic ren ba tusevew pingoet gota gepfejpi huv ge notrog peumu. Tek ifop ro evu lu poceghag rilso ka zumbudiha ke zimiwi pe la pupamug. Hajisita uf eta om pu se cesgelho wapupbep afso kupovef gaut koavmen. Rorfar zun niwwouw suszibni jugfuvug ritibsat fesi cucbebaw mebrato ge gocukfev wuj zagkun vipkorelu cebcu pidala zismer jiiccos. Evewa ro nifho jo de lof vi de wokwo metataz homnal enu awewe wo lium iguvohhid laf."
+  },
+  "apiKey": "f1c3b7af52c22decc10ae613da96f508c2ad8ddbe707bfb8b7bdf3ab3329ccfa",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro Member Countries"
+  }
+}
