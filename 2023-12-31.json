@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Osborne",
+  "age": 52,
+  "address": {
+    "street": "Maweh Drive",
+    "city": "Itizidum",
+    "state": "WV",
+    "zip": "03012"
+  },
+  "contact": {
+    "phone": "(721) 843-7940",
+    "servicePhone": "800463652"
+  },
+  "birthday": "1991-10-29T16:22:52.284Z",
+  "ip": "2.66.48.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuwpoz do fazuan avojoola zomvik dap li mocfef juw dudari gun mibwecez jegamur. Daana nisurvej dakioto aj emaum emasu vojuv nesa biho ciprubug ezeupere udar hefzal ajtabtap. Ne omege are ihkole mukre nage bavug nok lo iscilwo ned vuzagow bi eglez bid.",
+    "bio": "Zaowi acauf ba ad roguku kab zamizga bevtofji nofmegi sipoc jaevodo bohufe etegiroka ne. Amakesmi idumi sicib lovuh fiotezug gon bub lokibcev saer putgo ujemopdow jantuz kem uvusip izfefnu natvega ilozabo kuvat. Zed zijuf bez icfasze jecabak mabdohoh uge loz fuzkov di vi hogbak cac dodmiiso fucdelhoj zisvevve li ectunoc. Li ahupafom mo puhbitoj mode nushawem capmeki defibu memo ka cihure ejebe. Deta wovir gebuweoh nobumud pulov eg fe ifoho eve nic mopnicce kapjafkok erejuj pefazwi ihamup hubefhe. Edpip irwami egotafef ivoataodi handi hiku sudi ceci vo goh iwaduifo zi ec diwogoni tikvuto ato no."
+  },
+  "apiKey": "eaa3e2802c85198e61a5ae7690b74e839f642ffbf043339e01f30ce33ce30d74",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
