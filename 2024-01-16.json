@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Burton",
+  "age": 38,
+  "address": {
+    "street": "Bebi Loop",
+    "city": "Pedlozrez",
+    "state": "WI",
+    "zip": "99231"
+  },
+  "contact": {
+    "phone": "(462) 329-5523",
+    "servicePhone": "800745159"
+  },
+  "birthday": "1976-03-22T09:07:07.254Z",
+  "ip": "109.53.233.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Ro cilekhe luud uz remeuk mira zagodul guvcocob vagoan zoj denwur suif maavnik rurutkef lepezo. Ku woud nenvoem curisabo fukgosce nonof efunatfa wuila ka nunebrab kemov toaznaw. Soktovuj cego hasfuj ifazam awocog cavojojij wip fuc kiw wokegam wed haucsav.",
+    "bio": "Vomi dusza sac nupiv zic duibaj ah luspoika fi woces mioguale bi voepo fa vidluj icaufojop tal. Fuapoute kehfaf witikbu ge ekama linluf kuz lubbeg wonoju woij cuh buh em sa zatvebnes junoj nu. Pivvut lecpaim bajoga obimo mihih metoij sumedki rug hacnim bibitak nusijwo vol. Irmat ga zuecu fulovnof vizalis ovu hes lauluifo jan of mab vutti azbis nevuwkiw."
+  },
+  "apiKey": "666fb29171fcf4a66a7bf2024883d10416647ad10ccdb2c1c43a284c23678b58",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
