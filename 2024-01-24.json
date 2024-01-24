@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Morgan",
+  "age": 59,
+  "address": {
+    "street": "Haggac Ridge",
+    "city": "Saarba",
+    "state": "LA",
+    "zip": "29709"
+  },
+  "contact": {
+    "phone": "(862) 978-2105",
+    "servicePhone": "800824632"
+  },
+  "birthday": "1962-05-21T02:16:25.452Z",
+  "ip": "16.16.54.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Tev ci waoc za efehobe raz igviroh tet uvsu hi sih vepoknuw jusoak nomci. Ki bizuvdew apsuaza rapberud su otunah esa opono gurdejiju garsiba bijfaha je tezaverov. Taem zat fon appafi wifub geg mioc rij efnudug co ralviz jonrej.",
+    "bio": "Hulanja kasajmer zavu dindehdi soib zut rusiic wegpe cil base aja ki tal mov nuhboene pofce jimokow. Zenari upinu ehomu icaco gina sagdeg hapvi aceme fahviwbig cef zavo ubuwoagi li pa kaja um len. Guj iwjo zarig li bet ubauw wekofo uvilejo ga fafuw ikke hikacjes lof duh hetdivfof. Wefnok ifudegu unudakog porkam kij waoku juz inhewe rejiob gez buz cororco ihhaago demhuud fega."
+  },
+  "apiKey": "02cbf115b669f86f50371ff63e6d818ec7bb4cb99ec866ced8afb05619d8b982",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
