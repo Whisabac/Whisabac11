@@ -1,0 +1,26 @@
+{
+  "name": "Alan Briggs",
+  "age": 25,
+  "address": {
+    "street": "Boame Turnpike",
+    "city": "Vibuvohe",
+    "state": "NY",
+    "zip": "77424"
+  },
+  "contact": {
+    "phone": "(543) 808-1628",
+    "servicePhone": "800348737"
+  },
+  "birthday": "1979-05-01T21:17:30.682Z",
+  "ip": "123.175.55.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Fowus zefas ko udrah uz tinutit linamela kupep tab om fuw wuntoha. Puirheh kevib jav dedak sipsop ic efu hic zaowa az igawa kezbettos nambe vuv wejupiid mubav. Homfil ildul ejuvhe opzegnak dir duwundi doni micufeji uckocuz epoovji dulda da op ofi judvokip kepijfo unha. Cewhi fe hep lu betemsak obojankod robuzsi fajojsim ad ma zoz fi. Otalo hidudef wav tif buurugu ekhi ozror dilevubo sawefsa hor ludvover acu vutekef tu tozhetaz gaophev. Tafowri mibe go kahug sevvesin pep nirrur nuvaw je pamopfek emalodhob zatkoc. Ami muheju hofihjaf uled et webne cakoju baz hiz birenlus ufe tu ute tuduv nijfezub hed sowi ta.",
+    "bio": "Cevig tozporjag hig pa suhif get daleel uj cafof begmiw pikiun ne. Civuze ralinoofa ommooc hevmuc epimadkah mah ohofeh hodrovo babamna fu ge huktad su. Monelu ecapo sok do morum bomata oz zigueco lo gase rad rurfo mede ahabuv lihuphu za. Pepo pifedwe babicoli ziohza olviz rejmeob getde ruhebtip pokib hivu epefawe dah cuedamu al pubav."
+  },
+  "apiKey": "1bb76752fed36e2acd0919b57a422cb1000e8bfef487b229af66409535d4fab7",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
