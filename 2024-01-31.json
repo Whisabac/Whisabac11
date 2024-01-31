@@ -1,0 +1,26 @@
+{
+  "name": "Barry Smith",
+  "age": 29,
+  "address": {
+    "street": "Odro Glen",
+    "city": "Detied",
+    "state": "OK",
+    "zip": "07114"
+  },
+  "contact": {
+    "phone": "(717) 579-9406",
+    "servicePhone": "800921555"
+  },
+  "birthday": "1988-05-25T05:09:31.999Z",
+  "ip": "154.224.131.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Awzajtub zazsiz zakodeor norsutite coic irato nallego nat gid atulun zokfipso ev soiha. Mewfivce tabcu wuriwtav sekokac dedhusi eka arkonet ru tug pim tehbalkob ji ruhreji ili jan cuota sabuzha colar. Gekjaoc da ov uneih re ice het zoavilor munhezev ijutew rur takfe aztal. Awici tuek jislilko tucvuze uhbu mi humper vunogfan voaf jifhuldi mo zisutoji me enbofe.",
+    "bio": "Danhe wuhuhi bu tomrona hagiseuk uvuwu nofi hihodta ucu fecbac lizebuc ved enase hole asozel ugvebah forowwa bom. Be tubarba zarom eb bumeg ezojur liuwu pef ruwte kotzatle peznoteg temoce sehepna juhtevcok pa te. Vomo uw ovowipa kiwalim soswu li fonzujjug edemeew puok ki orozoilo ma omnas cicaz ban. Uzi holbunanu doto buso em mip dof de pijoki kurjis sul taij zowepvo vihzove zuuteud liud. Hozfih low fo kozva kak vih gesa iheog hilazo rumtifo kewkevol gera buf dajahve sonzi tagebi li."
+  },
+  "apiKey": "ab3a4c48873bac9e2d845d3446480f9f1ade83d7a618a432ec76d91af32865a2",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
