@@ -1,0 +1,26 @@
+{
+  "name": "Ray Brady",
+  "age": 23,
+  "address": {
+    "street": "Gaju Way",
+    "city": "Figebsi",
+    "state": "MT",
+    "zip": "92296"
+  },
+  "contact": {
+    "phone": "(339) 625-2929",
+    "servicePhone": "800347628"
+  },
+  "birthday": "1974-09-30T00:16:39.496Z",
+  "ip": "147.60.68.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Gi va mewumjed te torlegep zotudeg cectuwvu vod variw sangaum re ceha rofeaf. Mapujzat ku sirimav taceku zibes zerca jofawdi kantah tiwmahgov rocjir ob uhcup. Bif bokdowzeg ripimika tara os bam hanrugehi vosdid det levo mom don tuc ver fijdazu vuel cafju.",
+    "bio": "Zigap cifilozew bal ral cim larrefej uhon wef fu ud jeedupav nurin busoj eblujwe. Serfu edibubak potlup pe azte dohac vu uwce hakpoh bagakekih ihihuaz hiaz. Ageledji tebvipwaj del veb zad urpodfu zondoc ozu hog gojle zaf murusic gulo."
+  },
+  "apiKey": "ad01a066d39ca3731171faafc0222c69f50e0fc871ae2c92bafef3a78b7e8eca",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
