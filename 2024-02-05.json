@@ -1,0 +1,26 @@
+{
+  "name": "Robert Cooper",
+  "age": 21,
+  "address": {
+    "street": "Tejas Drive",
+    "city": "Ejevehba",
+    "state": "IN",
+    "zip": "65047"
+  },
+  "contact": {
+    "phone": "(240) 303-1959",
+    "servicePhone": "800176279"
+  },
+  "birthday": "1975-03-20T12:00:38.152Z",
+  "ip": "124.31.104.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Alpubug otumitur lu hezno hefbotpuk picvan idibir ciblempud milra ridpij pajec sa kuzte umo. Dazihi mokofod ra ussuvsec fecid juoh fi mej kiddilano lip bokubju ju lavi coha. Ahfajud neaj gav movodu el konfuv duzaspi suklel hus ed nuftel po zaseap usuki ase ran ra.",
+    "bio": "Api iripel nozuz ko hoida nah za rupuzi hibvudil rughopok andac zu era lu vaw. Dofepa coc fivveklut otmo ocpuvul wicagzu micpor supradic vi goele bicus avobusu. Mita bulog zugze igna caduwliw ivi cu afowemro kiosgor ica da degukde fu."
+  },
+  "apiKey": "57af41ebdef9efaea3ce73a41027dfecaa13a857b38e76f9e2991d34fec8645f",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
