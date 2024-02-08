@@ -1,0 +1,26 @@
+{
+  "name": "Emily White",
+  "age": 49,
+  "address": {
+    "street": "Sopmit Park",
+    "city": "Waujnu",
+    "state": "IA",
+    "zip": "13342"
+  },
+  "contact": {
+    "phone": "(744) 312-9225",
+    "servicePhone": "800228233"
+  },
+  "birthday": "1996-07-14T07:17:46.823Z",
+  "ip": "226.122.152.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Ectow zevgin wuca ibo bujajnif dutzimzu huk wun erubozi ut nucenwi da jow fu wazzumu wuhwutva. Hewof kab hout iv wiratane govucob jibmisba usaijulon jo um dokvaepi owzo sepe pibaknif zirhe uzemahtev kagujco. Zograbek mefko ho foinale rokison kilge subsekta eppac vi muhwez tukuw lutzej kuroz.",
+    "bio": "Noejuluk ej wufwakza pab zam ke uchahoj lazweir di kietifu betapi ep ga je ujeadud wagumedi pu ocoifigi. Juv kojijac papos mafe gessev imgi ponwewog ot rastic iraoshin sawkud pojaz am. Gonjorme rip vod faduze tanevga farjadiz kerrucduz zitne giufo jugvic uharudo kapufuic safetvo. Ecco fe su juwetaj rujo ajozopti izguh la upav ibva meggot cosompif ekfu rec muveak rac engawti guwzonha. Voepepaf abuzur pe ema don hig ju uwacobret moh fic wuc wupis habizego ineic zohu kacpoz tis. Bopezujo iwo ew ekueluic jov be te vekku ciwwuji goji anbafu lo lufalejaj pimezaz jasifim."
+  },
+  "apiKey": "b8765d52f3c97cf90cfc7742e31b5989797d36ad3c569234019c3877e0055077",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
