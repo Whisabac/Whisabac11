@@ -1,0 +1,26 @@
+{
+  "name": "Ruth Thomas",
+  "age": 28,
+  "address": {
+    "street": "Cuviv Key",
+    "city": "Tobeufu",
+    "state": "ID",
+    "zip": "11059"
+  },
+  "contact": {
+    "phone": "(623) 304-5631",
+    "servicePhone": "800459137"
+  },
+  "birthday": "2005-08-25T23:00:26.178Z",
+  "ip": "96.17.158.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Fug nihad evfu wesfu go le neum fahevuret vigefjul jev vu mis. Lelezeji datave zuplivije giwafur vivas he vin ro tab nuzlohkin owjujru feven ew izjubod zudolos zupacma lu. Sofev wid wunfomebe bobda ipajo ejdoro riuku ramnuvwi jid ap de ehpi.",
+    "bio": "Iktu ihopah si ol jeknis ra ihu wojvobkeh daful rut uc poil. Vinap agcu nowbocti lojuza pehdov si kevwop owuceube ceczigu evi keg avjehina dulcug ka azu mosne hizacim foifoco. Mo kehemar si fehvojdul ar ku ez refutir ka mitzewu nowimom evvoj peb nu. Bifaz semwa pozan li uh new ba jazsafeb bodes iroco febopi siaza omaduuna."
+  },
+  "apiKey": "60eccb32af3cda9a4b7d9cd0f4ca44530379fd3e52b9c4d1954c566fbadcb500",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
