@@ -1,0 +1,26 @@
+{
+  "name": "Peter Schwartz",
+  "age": 49,
+  "address": {
+    "street": "Tanuz Circle",
+    "city": "Vakpewef",
+    "state": "NY",
+    "zip": "26215"
+  },
+  "contact": {
+    "phone": "(655) 268-1506",
+    "servicePhone": "800343666"
+  },
+  "birthday": "1965-08-06T18:59:09.562Z",
+  "ip": "253.49.80.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Jaztej edo ve deko zuurco kojfe rojlu na kufdud lik zohaz aj uwzihok. Nec fu tale ku cahjazo mecmairu zummeg tegvil po du ikeje faderzu horo. Johluf ti agenij pik joizbe hobsep nahidic mejbud koptan haluli bada vobra fo enideke java gakconwos jo.",
+    "bio": "Nimjeka geizzo ubanoca bap votat ha rimoha ob agugji kuzmiz tulpof moj esu ad ecpuf. Ummavzof alawaz vuh ujwoswi mumepum divuog lufnozaz hi pigwuhe ceskod vapon ha. Keeg bowlel zasa wekcovim weknih avkec muta riz ma di desizu ehtef lajezih hiapem. Bocice wiw vu risci fufpe eb uzuziw mo fi luheor rowasto riid cifevzi uk. Ge zuw zew juilahir lihni re jinef lulo lincucim cej toh dadjen bidarus dealguj. Cejoevo netkodgu rehcik in kej go rehfeuci bu su gi veroaz bahbetez ataub waaw rag hilhinun. Ocecavfo wogri godpokfe hidlijol pipmirla vub rebruvoj wivobsaf dijzeh sal vif zelgihzus dovpa vozhe lujme rir asapilera."
+  },
+  "apiKey": "ed157623d383142a17dbba209c47a1290403a3a7ca8d749f858c24d36e5787d7",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
