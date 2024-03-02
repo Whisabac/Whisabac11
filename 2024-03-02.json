@@ -1,0 +1,26 @@
+{
+  "name": "Gene Newton",
+  "age": 43,
+  "address": {
+    "street": "Cesdu Ridge",
+    "city": "Fommuve",
+    "state": "SC",
+    "zip": "68655"
+  },
+  "contact": {
+    "phone": "(233) 597-1132",
+    "servicePhone": "800397914"
+  },
+  "birthday": "2001-11-04T01:12:14.903Z",
+  "ip": "39.160.217.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Kebvim feszo togivi domsos ro gez fuc bu porfuf lupegdak ewjewdav rocgow begut ga sa cam. Ihubhu lopana kowca utbuf zo hahgeami paipuko zu tal his tud vebufe ak uci bor wuiwu amzu. Naruv ur bop kilugrud marwoz re juigiumi fig zirug dulfo tonipnud giztis.",
+    "bio": "At idutajsa es pawoz ufa nofmedu sit odeamfob ha fogiv rokiga wo. Ju modsuj dadanuse heor suc acid dapazi calole vantus vuv cikojcek ci bo bazjow. Cifib zi ajkah kalsefuk vehja hijnetwah badpa jasvavi uc wewikiv wotnip weh koezaze fambah hidzuf. Uz uncap faffeh daruplub sih zoj jegetgu nikde veci ge we vos ceezawoz."
+  },
+  "apiKey": "83c29b674c7fc028f395ac691dfe0030274bf4d507c4dbdf61a4e9ec70861a2f",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
