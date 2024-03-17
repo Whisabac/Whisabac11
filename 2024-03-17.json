@@ -1,0 +1,26 @@
+{
+  "name": "Tony Griffin",
+  "age": 51,
+  "address": {
+    "street": "Papuk Drive",
+    "city": "Awuurjud",
+    "state": "IN",
+    "zip": "87480"
+  },
+  "contact": {
+    "phone": "(233) 814-2734",
+    "servicePhone": "800533868"
+  },
+  "birthday": "1980-09-16T15:50:52.780Z",
+  "ip": "237.66.176.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Kad sajca olamah zimho kaf aca rezvof deke gidwisub pizip buurep deizo carveize azavahe umipo. Jiczuhge gir mi tis nuspitbam nutsa medoki ubnac opi avaeci hi mu hulam sa vetti. Zezdiwon ocilu gon awsaoti mihafin ew dut kogi mac onu laso sa jehojig.",
+    "bio": "Efa ihebetoco ufruz velinka moic kicabkaz ovi ca sakjajap fen ahuen na mavrojir tumzu vemomi pidibib. Gakagjav bawna inru nos itjetgo worlolop ewece jaw vuknagos amu amaciiwo ki dubavle guugobun cico kofno. Jopkowu oza ukotew ferguvzu ceita bov edwabuz masra is nopa etir ka lo moce puro muzfuwe. Ajol kagogpu zelap wama hepenpi ut wuzmis nagkakvem josnuwe boakaob navhiczef dehipo boki kuc. Ene neodep gehupwis sedmef guwet rawu reb cig lajuz la vinithi boz ri fem balcijov dudod. Ijucik fowci enlu okvof jacola lezwep ben owojes kumhu on tud sulmer podaduwe. Pe zosut les riruzu wib vizvifhid wuzenen toacni puz witjul ojlas cu anibunbiv lelovje fogda picu kowi."
+  },
+  "apiKey": "a52b947f7b318eb895781a9f8afb4f3857be28ca7b593240a1ea8173e83df6eb",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
