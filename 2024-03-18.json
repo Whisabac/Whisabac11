@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Norton",
+  "age": 34,
+  "address": {
+    "street": "Bofneg Square",
+    "city": "Nelpapbok",
+    "state": "MA",
+    "zip": "63239"
+  },
+  "contact": {
+    "phone": "(404) 623-4679",
+    "servicePhone": "800365443"
+  },
+  "birthday": "1978-08-01T00:31:50.909Z",
+  "ip": "10.103.94.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu sepevouj fozheddu ma lir wej ek gi lultamov oj osi pe tiveso losziku ase re pu. Feb ale olute analab lak lippu ikefuja kaftop nugbo zon ivmul ni hog erherik. Ho pimelhu heabudo kerut tauzi bocueh cowon jolgepga caogoro wimgi le rinpuzroz zelafu gen jowo kepivegu riswo melbid. Akizuris vi ogkazwef lot babiw dodivca notsav buive ciimmof huzede wulvif eh.",
+    "bio": "Ofo kiilizoc libligeru babjunid awoke gerubofa boz wepsi teezowe kagfew vezare keuda. Utzeeha vijzeebu aciriviz vomse wew watmu ukitiv vewimlac zol pehutvam jazog morzo ilzan leavehe rejuv vaami he. Neti owuka wuwul zalov cujaapa vaej cifjitu nug hewed nupfe egca lefu ebekevek bib nici jocwokok bennazfej. Digoj fa an huzawo sahha vuodwof era halulij ne rabcipjik palwa vaduvi ufehizum aviiji nemjos sa ole codo. Fitpeb giga batjagosu lu ruz banukhig ureta ildoni bo vin hati wuskuniz. Few nobi mika zepuwo dovta wotro dos pehnuk jo ofeitrad lohtu rofone miim."
+  },
+  "apiKey": "b45c0e00ecbe4d4cf6526a61ae57e9177945908391029bf5e084495d7634a35b",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
