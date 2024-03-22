@@ -1,0 +1,26 @@
+{
+  "name": "Phoebe Walton",
+  "age": 18,
+  "address": {
+    "street": "Rihca Ridge",
+    "city": "Niluli",
+    "state": "FL",
+    "zip": "76918"
+  },
+  "contact": {
+    "phone": "(824) 941-8693",
+    "servicePhone": "800498773"
+  },
+  "birthday": "2006-06-29T05:34:42.308Z",
+  "ip": "69.205.219.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Eg defgavan sadakba mifo sum ezafih tahcepi vopwo nerarjuw ekajehe bop jorenmek usupig. Carera iz zizamoz ihonij vesiz gahupsa dagde keho jukronam dah eloko jihi mu kevudgu unvoh halojis jip. Vo juwbu asope obuje utizuwta tuhbuhil ra regvuf aga fedivsug ifo tah samisvu.",
+    "bio": "Contoiza tuk edejuhvo womulen ta rika wiow olgi ridfeb kebum wejek iwwiv ossobog uktovmig raeso davuro. Sezeb idul seuko si acdonuh iru uz wi fiptibed sah hunev savawces hi buvejew meh nulewmut. Wamupni kiz huv il fabenime joon pecfisver su mukar zosvem ku bam. Puhnatigo atu itpa zikuh vi bel tootuz foduvu romuwih uje lari gu leepafoh."
+  },
+  "apiKey": "8e97131ee1d82a3c8e6022e764b3843dc9a335e8db6b5c7c87150ddb1acb559c",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
